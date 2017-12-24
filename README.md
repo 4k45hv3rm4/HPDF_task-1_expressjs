@@ -1,3 +1,5 @@
+
+
 # HPDF_task-1_expressjs:
 This repository contains the files that consist of codes that are written for nodejs-express platform,
 
@@ -7,7 +9,9 @@ PREREQUISITES:
 
 
 what is nodejs?
- Node_js is a open source, cross platform,javasrcipt,crossplatform runtime environmen for executing javascript code serverside.It has following advantages,
+
+
+Node_js is a open source, cross platform,javasrcipt,crossplatform runtime environmen for executing javascript code serverside.It has following advantages,
  
  1:Event Driven Programming Model,
  
@@ -23,6 +27,7 @@ what is nodejs?
 
 
 what is express_js?
+
 
 
 Express is a  flexible and powerful web development framework for the Node.js (Node) platform.Express is a lightweight framework,Using express framework on nodejs, Server-side web and mobile application frameworkcan be made easily.following are some of the major features of express framework:
@@ -46,6 +51,7 @@ structure.
 
 
 9:The Express Generator:let's you create complex applications quickly.
+
 
 10:Realtime web applications etc.
 
@@ -102,4 +108,9 @@ TASK1.7-{For this,open browser,and go to  http://localhost:8080/input,this page 
 
 
 
-End's here,hope  you don't find any difficulty during runtime,if any feel free to inform ,This is my email id-4k45hr0ck5007@gmail.com
+End's here,
+
+
+
+
+hope  you don't find any difficulty during runtime,if any feel free to inform ,This is my email id-4k45hr0ck5007@gmail.com
