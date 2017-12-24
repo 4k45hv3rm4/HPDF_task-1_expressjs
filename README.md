@@ -59,6 +59,7 @@ After installing  node and express in your system ,open up the folder in which y
 folder,and run the command:[node index],and you will notice that the code runs successfully.This code has been written inorder to fulfill following requirements, 
 
 
+
 TASK1.1-{For this, open ur browser and go to http://localhost:8080/,there  will be a text displaying 'HELLO WORLD Message' }
 *A simple hello-world at http://localhost:8080/ that displays a simple string like "Hello World - Arpit"; replace "Arpit" with your own first name).
 
@@ -93,9 +94,12 @@ TASK1.6-{For this,open browser,and go to  http://localhost:8080/image,This page 
 
 *Render an HTML page at http://localhost:8080/html or an image at http://localhost:8080/image.
 
-TASK1.7-{For this,open browser,and go to  http://localhost:8080/input,this page will take the input from the user and the enetered information will display at http://localhost:8080/form}
+TASK1.7-{For this,open browser,and go to  http://localhost:8080/input,this page will take the input from the user and the enetered information will display at http://localhost:8080/form,it will also log the entered indormation at stdout.}
 
 
 *A text box at http://localhost:8080/input which sends the data as POST to any endpoint of your choice. This endpoint should log the received the received to stdout.
     
+
+
+
 End's here,hope  you don't find any difficulty during runtime,if any feel free to inform ,This is my email id-4k45hr0ck5007@gmail.com
