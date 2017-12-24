@@ -29,6 +29,7 @@ what is express_js?
 
 
 
+
 Express is a  flexible and powerful web development framework for the Node.js (Node) platform.Express is a lightweight framework,Using express framework on nodejs, Server-side web and mobile application frameworkcan be made easily.following are some of the major features of express framework:
 
 1:Language: written in JavaScript
@@ -44,7 +45,9 @@ structure.
 
 6:MVC pattern: Express supports the Model-View-Controller architecture, a really helpful way to build websites in a model-driven format.
 
+
 7:Platform: Node.js
+
 
 8:Operating system: It’s cross-platform, so it’s not limited to one OS.
 
@@ -67,11 +70,15 @@ folder,and run the command:[node index],and you will notice that the code runs s
 
 
 TASK1.1-{For this, open ur browser and go to http://localhost:8080/,there  will be a text displaying 'HELLO WORLD Message' }
+
+
 *A simple hello-world at http://localhost:8080/ that displays a simple string like "Hello World - Arpit"; replace "Arpit" with your own first name).
 
 
 
 TASK1.2-{For this,open browser,and go to  http://localhost:8080/authors,this question contains list of authors name and number of post made by them ,bothof this data is fetched from different url's and displayed. }
+
+
 *Add a route, for e.g. http://localhost:8080/authors, which:
 1:fetches a list of authors from a request to https://jsonplaceholder.typicode.com/users
 2:fetches a list of posts from a request to https://jsonplaceholder.typicode.com/posts
@@ -80,6 +87,7 @@ TASK1.2-{For this,open browser,and go to  http://localhost:8080/authors,this que
 
 
 TASK1.3-{For this,open browser,and go to  http://localhost:8080/authors,cookie is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is browsing. Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past,this was to set a cookie:}
+
 *Set a simple cookie (if it has not already been set) at http://localhost:8080/setcookie with the following values: name=<your-first-name> and age=<your-age>.
 
 
